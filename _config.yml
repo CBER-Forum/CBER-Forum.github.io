@@ -93,8 +93,8 @@ conference:
 
   # Main landing page
   main:
-    # logo:
-    #   img: ''
+    logo:
+      img: 'logo.png'  # inside /assets/images/
     links:
       - name: Program
         relative_url: /program/
