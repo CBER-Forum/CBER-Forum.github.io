@@ -2,21 +2,11 @@
 layout: default
 ---
 
-## Organizers
-
-|                                                                            |                                                                             |                                                                             |
-|-:-:------------------------------------------------------------------------|-:-:-------------------------------------------------------------------------|-:-:-------------------------------------------------------------------------|
-| Kose John (co-chair)<br><span style="font-size:0.85em;">NYU Stern</span>    | Julien Prat<br><span style="font-size:0.85em;">Ecole Polytechnique</span>    | David Yermack (co-chair)<br><span style="font-size:0.85em;">NYU Stern</span> |
-| Fahad Saleh<br><span style="font-size:0.85em;">University of Florida</span> | Andreas Park<br><span style="font-size:0.85em;">University of Toronto</span> | Gerry Tsoukalas<br><span style="font-size:0.85em;">Boston University</span>  |
-
-
-
-## Advisory Committee
-
 <style>
 .column {
   float: left;
   width: 33.33%;
+  text-align: center;
 }
 
 /* Clear floats after the columns */
@@ -26,6 +16,8 @@ layout: default
   clear: both;
 }
 </style>
+
+## Organizers
 
 <div class="row">
     <div class="column">Kose John (co-chair)<br><span style="font-size:0.85em;">NYU Stern</span></div>
@@ -39,7 +31,7 @@ layout: default
     <div class="column">Gerry Tsoukalas<br><span style="font-size:0.85em;">Boston University</span></div>
 </div>
 
-  <!-- <div style="float: left; width: 33.33%;"></div>
-  <div style="float: left; width: 33.33%;"></div>
-  <div style="float: left; width: 33.33%;"></div> -->
+## Advisory Committee
+
+
 ## Program Committee
