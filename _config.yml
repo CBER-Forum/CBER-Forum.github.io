@@ -23,13 +23,13 @@ exclude:
 # Collections and their defaults
 collections:
   talks:
-    output: false
+    output: true
     permalink: /:collection/:title/
   speakers:
-    output: false
+    output: true
     permalink: /:collection/:title/
   rooms:
-    output: false
+    output: true
     permalink: /:collection/:title/
 
 defaults:
@@ -70,12 +70,14 @@ conference:
     links:
       - name: Program
         relative_url: /program/
-      - name: Talks
-        relative_url: /talks/
-      - name: Speakers
-        relative_url: /speakers/
-      - name: Location
-        relative_url: /location/
+      - name: Organizers
+        relative_url: /organizers/
+      # - name: Talks
+      #   relative_url: /talks/
+      # - name: Speakers
+      #   relative_url: /speakers/
+      # - name: Location
+      #   relative_url: /location/
       - name: Previous Editions
         menu:
           - name: 2024 (current)
