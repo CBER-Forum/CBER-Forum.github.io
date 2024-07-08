@@ -21,12 +21,12 @@ layout: default
   text-align: center;
 }
 
-h2 {
+h3 {
     text-align: center;
 }​
 </style>
 
-<h2>Organizers</h2>
+<h3>Organizers</h3>
 
 <div class="row">
 	<div class="column">
@@ -78,7 +78,7 @@ h2 {
 <br>
 
 
-<h2>Advisory Committee</h2>
+<h3>Advisory Committee</h3>
 
 <div class="row">
 	<div class="column">
@@ -233,10 +233,10 @@ h2 {
 		</span>
 	</div>
 	<div class="column">
-		Christine Parlour,University of California
+		Christine Parlour
 		<br>
 		<span class="affiliation">
-			 Berkeley
+			University of California, Berkeley
 		</span>
 	</div>
 	<div class="column">
@@ -261,7 +261,7 @@ h2 {
 
 
 
-<h2>Program Committee</h2>
+<h3>Program Committee</h3>
 
 <div class="row">
 	<div class="column">

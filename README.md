@@ -18,6 +18,25 @@ The theme was originally created for the yearly Winterkongress conference of the
 - [Demo: Winterkongress](https://digitale-gesellschaft.ch/kongress/)
 
 
+## CBER Committees Workflow
+
+1. Copy names
+2. Regex:
+    - `^(.*)\n(.*)$`
+    - `$1,$2`
+3. Sort alphabetically
+    - Can use this site (mark "Ignore 1st word"): https://wordcounter.net/alphabetize
+    - Double-check people with middle names, multiple affiliations, etc
+4. Add tabs
+5. Regex:
+   - `((?:.*\r?\n){3})`
+   - `<div class="row">\n$1</div>\n<br>\n`
+6. Regex:
+   - `    (.*),(.*)`
+   - `\t<div class="column">\n\t\t$1\n\t\t<br>\n\t\t<span class="affiliation">\n\t\t\t$2\n\t\t</span>\n\t</div>`
+
+
+
 ## Table of Contents
 
 - [Installation](#installation)
