@@ -1,7 +1,7 @@
 ---
 name: 'Beyond the Protocol: Proposer-Builder-Separation and Relays'
 speakers:
-  - Barnab´e Monnot
+  - Barnabé Monnot
 categories:
   - 'Moderator: Evgeny Lyandres'
   - Lunch
