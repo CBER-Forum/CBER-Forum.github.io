@@ -64,7 +64,7 @@ conference:
       name: |
         CRYPTO AND BLOCKCHAIN
         ECONOMICS RESEARCH FORUM
-      # img: 'logo.png'  # inside /assets/images/
+      img: 'logo.svg'  # inside /assets/images/
       url: 'https://cber-forum.github.io/'
     breakpoint: md
     links:
