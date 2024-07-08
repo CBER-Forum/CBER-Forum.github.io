@@ -1,4 +1,4 @@
 ---
 name: Gardner Commons
-hide: true
+# hide: true
 ---
