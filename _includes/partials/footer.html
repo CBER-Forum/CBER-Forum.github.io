@@ -7,11 +7,15 @@
   {%- include partials/modal_live.html -%}
   {%- endif -%}
   
-  <nav class="navbar navbar-expand-{{ site.conference.navigation.breakpoint | default: 'md' }} navbar-light bg-light mb-3" style="position: relative;">
-    <footer class="container" style="position: absolute;">
-      Test.
-    </footer>
-  </nav>
+  <footer>
+    <nav class="container navbar navbar-expand-{{ site.conference.navigation.breakpoint | default: 'md' }} navbar-light bg-light mb-3" style="position: absolute; bottom: 0;">
+      <center>
+        <a href="mailto:contact@cber-forum.org"><span class="fa-solid fa-envelope"></span></a>
+        <a href="https://x.com/CBER_Forum"><span class="fa-brands fa-x-twitter"></span></a>
+        <a href="https://www.youtube.com/channel/UC4Mvv5LUJ7hPi7ZFewjVhJQ"><span class="fa-brands fa-youtube"></span></a>
+      </center>
+    </nav>
+  </footer>
 
   <!-- Append build time to avoid caching of live program embedded in JavaScript file -->
   <script src="{{ site.baseurl }}/assets/js/main.js?t={{ site.time | date: "%s" }}"></script>
