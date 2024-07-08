@@ -1,7 +1,7 @@
 ---
 name: Keynote Address, Sponsored by Boston University
 speakers:
-  - Maureen O'Hara
+  - 'Maureen O'Hara'
 categories:
   - 'Moderator: Lin William Cong'
   - Keynote
