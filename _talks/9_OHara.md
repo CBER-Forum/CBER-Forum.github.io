@@ -3,7 +3,7 @@ name: Keynote Address, Sponsored by Boston University
 speakers:
   - Maureen O’Hara
 categories:
-  - Moderator: Lin William Cong
+  - 'Moderator: Lin William Cong'
   - Keynote
 links:
   - name: Recodring

@@ -142,6 +142,8 @@ conference:
     # Talk categories
     main_categories:
       - name: Moderation
+        color: warning
+      - name: Talk
         color: info
       - name: Keynote
         color: success

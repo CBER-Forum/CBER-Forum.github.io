@@ -4,7 +4,7 @@ speakers:
   - John M. Griffin
   - Kevin Mei
 categories:
-  - Discussant: Katya Malinova
+  - 'Discussant: Katya Malinova'
   - Talk
 links:
   - name: Paper
