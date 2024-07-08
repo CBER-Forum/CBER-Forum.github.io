@@ -20,21 +20,63 @@ layout: default
   font-size: 0.85em;
   text-align: center;
 }
+
+h2 {
+    text-align: center;
+}​
 </style>
 
 <h2>Organizers</h2>
 
 <div class="row">
-    <div class="column">Kose John (co-chair)<br><span class="affiliation">NYU Stern</span></div>
-    <div class="column">Julien Prat<br><span class="affiliation">Ecole Polytechnique</span></div>
-    <div class="column">David Yermack (co-chair)<br><span class="affiliation">NYU Stern</span></div>
+	<div class="column">
+		Kose John (co-chair)
+		<br>
+		<span class="affiliation">
+			NYU Stern
+		</span>
+	</div>
+	<div class="column">
+		David Yermack (co-chair)
+		<br>
+		<span class="affiliation">
+			NYU Stern
+		</span>
+	</div>
+	<div class="column">
+		Andreas Park
+		<br>
+		<span class="affiliation">
+			University of Toronto
+		</span>
+	</div>
 </div>
 <br>
 <div class="row">
-    <div class="column">Fahad Saleh<br><span class="affiliation">University of Florida</span></div>
-    <div class="column">Andreas Park<br><span class="affiliation">University of Toronto</span></div>
-    <div class="column">Gerry Tsoukalas<br><span class="affiliation">Boston University</span></div>
+	<div class="column">
+		Julien Prat
+		<br>
+		<span class="affiliation">
+			Ecole Polytechnique
+		</span>
+	</div>
+	<div class="column">
+		Fahad Saleh
+		<br>
+		<span class="affiliation">
+			University of Florida
+		</span>
+	</div>
+	<div class="column">
+		Gerry Tsoukalas
+		<br>
+		<span class="affiliation">
+			Boston University
+		</span>
+	</div>
 </div>
+<br>
+
 
 <h2>Advisory Committee</h2>
 
@@ -64,6 +106,13 @@ layout: default
 <br>
 <div class="row">
 	<div class="column">
+		Lin William Cong
+		<br>
+		<span class="affiliation">
+			Cornell University
+		</span>
+	</div>
+	<div class="column">
 		Joshua Gans
 		<br>
 		<span class="affiliation">
@@ -71,12 +120,15 @@ layout: default
 		</span>
 	</div>
 	<div class="column">
-		Rod Garratt,University of California
+		Rod Garratt
 		<br>
 		<span class="affiliation">
-			 Santa Barbara
+			University of California, Santa Barbara
 		</span>
 	</div>
+</div>
+<br>
+<div class="row">
 	<div class="column">
 		Yuliya Guseva
 		<br>
@@ -84,9 +136,6 @@ layout: default
 			Rutgers University
 		</span>
 	</div>
-</div>
-<br>
-<div class="row">
 	<div class="column">
 		Hanna Halaburda
 		<br>
@@ -101,6 +150,9 @@ layout: default
 			Duke University
 		</span>
 	</div>
+</div>
+<br>
+<div class="row">
 	<div class="column">
 		Joel Hasbrouck
 		<br>
@@ -108,9 +160,6 @@ layout: default
 			NYU Stern
 		</span>
 	</div>
-</div>
-<br>
-<div class="row">
 	<div class="column">
 		Zhiguo He
 		<br>
@@ -125,6 +174,9 @@ layout: default
 			Columbia University
 		</span>
 	</div>
+</div>
+<br>
+<div class="row">
 	<div class="column">
 		Garud Iyengar
 		<br>
@@ -132,9 +184,6 @@ layout: default
 			Columbia University
 		</span>
 	</div>
-</div>
-<br>
-<div class="row">
 	<div class="column">
 		Leonid Kogan
 		<br>
@@ -149,6 +198,9 @@ layout: default
 			Harvard University
 		</span>
 	</div>
+</div>
+<br>
+<div class="row">
 	<div class="column">
 		Gordon Liao
 		<br>
@@ -156,9 +208,6 @@ layout: default
 			Circle
 		</span>
 	</div>
-</div>
-<br>
-<div class="row">
 	<div class="column">
 		Evgeny Lyandres
 		<br>
@@ -173,6 +222,9 @@ layout: default
 			London School of Economics
 		</span>
 	</div>
+</div>
+<br>
+<div class="row">
 	<div class="column">
 		Ciamac Moallemi
 		<br>
@@ -180,9 +232,6 @@ layout: default
 			Columbia University
 		</span>
 	</div>
-</div>
-<br>
-<div class="row">
 	<div class="column">
 		Christine Parlour,University of California
 		<br>
@@ -195,13 +244,6 @@ layout: default
 		<br>
 		<span class="affiliation">
 			Ava Labs
-		</span>
-	</div>
-	<div class="column">
-		Lin William Cong
-		<br>
-		<span class="affiliation">
-			Cornell University
 		</span>
 	</div>
 </div>
@@ -218,6 +260,7 @@ layout: default
 <br>
 
 
+
 <h2>Program Committee</h2>
 
 <div class="row">
@@ -229,267 +272,10 @@ layout: default
 		</span>
 	</div>
 	<div class="column">
-		Matthieu Bouvard
-		<br>
-		<span class="affiliation">
-			Toulouse School of Economics
-		</span>
-	</div>
-	<div class="column">
-		Yao Cui
-		<br>
-		<span class="affiliation">
-			Cornell University
-		</span>
-	</div>
-</div>
-<br>
-<div class="row">
-	<div class="column">
-		Deeksha Gupta
-		<br>
-		<span class="affiliation">
-			Johns Hopkins University
-		</span>
-	</div>
-	<div class="column">
-		Ruizhe Jia
-		<br>
-		<span class="affiliation">
-			Columbia University
-		</span>
-	</div>
-	<div class="column">
-		Steve Kou
-		<br>
-		<span class="affiliation">
-			Boston University
-		</span>
-	</div>
-</div>
-<br>
-<div class="row">
-	<div class="column">
-		Jacob Leshno
-		<br>
-		<span class="affiliation">
-			University of Chicago
-		</span>
-	</div>
-	<div class="column">
-		Ye Li
-		<br>
-		<span class="affiliation">
-			University of Washington at Seattle
-		</span>
-	</div>
-	<div class="column">
-		Katya Malinova
-		<br>
-		<span class="affiliation">
-			McMaster University
-		</span>
-	</div>
-</div>
-<br>
-<div class="row">
-	<div class="column">
-		Abdoulaye Ndiaye
-		<br>
-		<span class="affiliation">
-			NYU Stern
-		</span>
-	</div>
-	<div class="column">
-		Talis Putnins
-		<br>
-		<span class="affiliation">
-			University of Technology Sydney
-		</span>
-	</div>
-	<div class="column">
-		Linda Schilling
-		<br>
-		<span class="affiliation">
-			Washington University in St. Louis
-		</span>
-	</div>
-</div>
-<br>
-<div class="row">
-	<div class="column">
-		Amin Shams
-		<br>
-		<span class="affiliation">
-			Ohio State University
-		</span>
-	</div>
-	<div class="column">
-		Ruslan Sverchkov
-		<br>
-		<span class="affiliation">
-			Warwick Business School
-		</span>
-	</div>
-	<div class="column">
-		Murat Tunc
-		<br>
-		<span class="affiliation">
-			Tilburg University
-		</span>
-	</div>
-</div>
-<br>
-<div class="row">
-	<div class="column">
-		Joshua White
-		<br>
-		<span class="affiliation">
-			Vanderbilt University
-		</span>
-	</div>
-	<div class="column">
-		Anthony Zhang
-		<br>
-		<span class="affiliation">
-			University of Chicago
-		</span>
-	</div>
-	<div class="column">
 		Nicola Borri
 		<br>
 		<span class="affiliation">
 			LUISS University
-		</span>
-	</div>
-</div>
-<br>
-<div class="row">
-	<div class="column">
-		Jonathan Chiu
-		<br>
-		<span class="affiliation">
-			Bank of Canada
-		</span>
-	</div>
-	<div class="column">
-		Brett Falk
-		<br>
-		<span class="affiliation">
-			University of Pennsylvania
-		</span>
-	</div>
-	<div class="column">
-		Dominik Gutt
-		<br>
-		<span class="affiliation">
-			Erasmus University
-		</span>
-	</div>
-</div>
-<br>
-<div class="row">
-	<div class="column">
-		Mariana Khapko
-		<br>
-		<span class="affiliation">
-			University of Toronto
-		</span>
-	</div>
-	<div class="column">
-		Jongsub Lee
-		<br>
-		<span class="affiliation">
-			Seoul National University
-		</span>
-	</div>
-	<div class="column">
-		Jiasun Li
-		<br>
-		<span class="affiliation">
-			George Mason University
-		</span>
-	</div>
-</div>
-<br>
-<div class="row">
-	<div class="column">
-		Yukun Liu
-		<br>
-		<span class="affiliation">
-			University of Rochester
-		</span>
-	</div>
-	<div class="column">
-		Simon Mayer
-		<br>
-		<span class="affiliation">
-			Carnegie Mellon University
-		</span>
-	</div>
-	<div class="column">
-		Emiliano Pagnotta
-		<br>
-		<span class="affiliation">
-			Singapore Management University
-		</span>
-	</div>
-</div>
-<br>
-<div class="row">
-	<div class="column">
-		Daniel Rabetti
-		<br>
-		<span class="affiliation">
-			National University of Singapore
-		</span>
-	</div>
-	<div class="column">
-		Caspar Schwarz-Schilling
-		<br>
-		<span class="affiliation">
-			Ethereum Foundation
-		</span>
-	</div>
-	<div class="column">
-		Shiva Shekhar
-		<br>
-		<span class="affiliation">
-			Tilburg University
-		</span>
-	</div>
-</div>
-<br>
-<div class="row">
-	<div class="column">
-		Ke Tang
-		<br>
-		<span class="affiliation">
-			Tsinghua University
-		</span>
-	</div>
-	<div class="column">
-		Quentin Vandeweyer
-		<br>
-		<span class="affiliation">
-			University of Chicago
-		</span>
-	</div>
-	<div class="column">
-		Baozhong Yang
-		<br>
-		<span class="affiliation">
-			Georgia State University
-		</span>
-	</div>
-</div>
-<br>
-<div class="row">
-	<div class="column">
-		Luyao Zhang
-		<br>
-		<span class="affiliation">
-			Duke Kunshan University
 		</span>
 	</div>
 	<div class="column">
@@ -497,6 +283,23 @@ layout: default
 		<br>
 		<span class="affiliation">
 			Columbia University
+		</span>
+	</div>
+</div>
+<br>
+<div class="row">
+	<div class="column">
+		Matthieu Bouvard
+		<br>
+		<span class="affiliation">
+			Toulouse School of Economics
+		</span>
+	</div>
+	<div class="column">
+		Jonathan Chiu
+		<br>
+		<span class="affiliation">
+			Bank of Canada
 		</span>
 	</div>
 	<div class="column">
@@ -510,10 +313,41 @@ layout: default
 <br>
 <div class="row">
 	<div class="column">
+		Yao Cui
+		<br>
+		<span class="affiliation">
+			Cornell University
+		</span>
+	</div>
+	<div class="column">
+		Brett Falk
+		<br>
+		<span class="affiliation">
+			University of Pennsylvania
+		</span>
+	</div>
+	<div class="column">
 		Rowena Gan
 		<br>
 		<span class="affiliation">
 			Southern Methodist University
+		</span>
+	</div>
+</div>
+<br>
+<div class="row">
+	<div class="column">
+		Deeksha Gupta
+		<br>
+		<span class="affiliation">
+			Johns Hopkins University
+		</span>
+	</div>
+	<div class="column">
+		Dominik Gutt
+		<br>
+		<span class="affiliation">
+			Erasmus University
 		</span>
 	</div>
 	<div class="column">
@@ -521,6 +355,23 @@ layout: default
 		<br>
 		<span class="affiliation">
 			NYU Stern
+		</span>
+	</div>
+</div>
+<br>
+<div class="row">
+	<div class="column">
+		Ruizhe Jia
+		<br>
+		<span class="affiliation">
+			Columbia University
+		</span>
+	</div>
+	<div class="column">
+		Mariana Khapko
+		<br>
+		<span class="affiliation">
+			University of Toronto
 		</span>
 	</div>
 	<div class="column">
@@ -534,10 +385,41 @@ layout: default
 <br>
 <div class="row">
 	<div class="column">
+		Steve Kou
+		<br>
+		<span class="affiliation">
+			Boston University
+		</span>
+	</div>
+	<div class="column">
+		Jongsub Lee
+		<br>
+		<span class="affiliation">
+			Seoul National University
+		</span>
+	</div>
+	<div class="column">
 		Alfred Lehar
 		<br>
 		<span class="affiliation">
 			University of Calgary
+		</span>
+	</div>
+</div>
+<br>
+<div class="row">
+	<div class="column">
+		Jacob Leshno
+		<br>
+		<span class="affiliation">
+			University of Chicago
+		</span>
+	</div>
+	<div class="column">
+		Jiasun Li
+		<br>
+		<span class="affiliation">
+			George Mason University
 		</span>
 	</div>
 	<div class="column">
@@ -545,6 +427,23 @@ layout: default
 		<br>
 		<span class="affiliation">
 			University of Florida
+		</span>
+	</div>
+</div>
+<br>
+<div class="row">
+	<div class="column">
+		Ye Li
+		<br>
+		<span class="affiliation">
+			University of Washington at Seattle
+		</span>
+	</div>
+	<div class="column">
+		Yukun Liu
+		<br>
+		<span class="affiliation">
+			University of Rochester
 		</span>
 	</div>
 	<div class="column">
@@ -558,10 +457,41 @@ layout: default
 <br>
 <div class="row">
 	<div class="column">
+		Katya Malinova
+		<br>
+		<span class="affiliation">
+			McMaster University
+		</span>
+	</div>
+	<div class="column">
+		Simon Mayer
+		<br>
+		<span class="affiliation">
+			Carnegie Mellon University
+		</span>
+	</div>
+	<div class="column">
 		Barnabé Monnot
 		<br>
 		<span class="affiliation">
 			Ethereum Foundation
+		</span>
+	</div>
+</div>
+<br>
+<div class="row">
+	<div class="column">
+		Abdoulaye Ndiaye
+		<br>
+		<span class="affiliation">
+			NYU Stern
+		</span>
+	</div>
+	<div class="column">
+		Emiliano Pagnotta
+		<br>
+		<span class="affiliation">
+			Singapore Management University
 		</span>
 	</div>
 	<div class="column">
@@ -569,6 +499,23 @@ layout: default
 		<br>
 		<span class="affiliation">
 			George Mason University
+		</span>
+	</div>
+</div>
+<br>
+<div class="row">
+	<div class="column">
+		Talis Putnins
+		<br>
+		<span class="affiliation">
+			University of Technology Sydney
+		</span>
+	</div>
+	<div class="column">
+		Daniel Rabetti
+		<br>
+		<span class="affiliation">
+			National University of Singapore
 		</span>
 	</div>
 	<div class="column">
@@ -582,10 +529,41 @@ layout: default
 <br>
 <div class="row">
 	<div class="column">
+		Linda Schilling
+		<br>
+		<span class="affiliation">
+			Washington University in St. Louis
+		</span>
+	</div>
+	<div class="column">
+		Caspar Schwarz-Schilling
+		<br>
+		<span class="affiliation">
+			Ethereum Foundation
+		</span>
+	</div>
+	<div class="column">
 		Gustavo Schwenkler
 		<br>
 		<span class="affiliation">
 			Santa Clara University
+		</span>
+	</div>
+</div>
+<br>
+<div class="row">
+	<div class="column">
+		Amin Shams
+		<br>
+		<span class="affiliation">
+			Ohio State University
+		</span>
+	</div>
+	<div class="column">
+		Shiva Shekhar
+		<br>
+		<span class="affiliation">
+			Tilburg University
 		</span>
 	</div>
 	<div class="column">
@@ -593,6 +571,23 @@ layout: default
 		<br>
 		<span class="affiliation">
 			University of North Carolina at Chapel Hill
+		</span>
+	</div>
+</div>
+<br>
+<div class="row">
+	<div class="column">
+		Ruslan Sverchkov
+		<br>
+		<span class="affiliation">
+			Warwick Business School
+		</span>
+	</div>
+	<div class="column">
+		Ke Tang
+		<br>
+		<span class="affiliation">
+			Tsinghua University
 		</span>
 	</div>
 	<div class="column">
@@ -606,10 +601,41 @@ layout: default
 <br>
 <div class="row">
 	<div class="column">
+		Murat Tunc
+		<br>
+		<span class="affiliation">
+			Tilburg University
+		</span>
+	</div>
+	<div class="column">
+		Quentin Vandeweyer
+		<br>
+		<span class="affiliation">
+			University of Chicago
+		</span>
+	</div>
+	<div class="column">
 		Jean-Philippe Vergne
 		<br>
 		<span class="affiliation">
 			UCL School of Management
+		</span>
+	</div>
+</div>
+<br>
+<div class="row">
+	<div class="column">
+		Joshua White
+		<br>
+		<span class="affiliation">
+			Vanderbilt University
+		</span>
+	</div>
+	<div class="column">
+		Baozhong Yang
+		<br>
+		<span class="affiliation">
+			Georgia State University
 		</span>
 	</div>
 	<div class="column">
@@ -617,6 +643,23 @@ layout: default
 		<br>
 		<span class="affiliation">
 			Carnegie Mellon University
+		</span>
+	</div>
+</div>
+<br>
+<div class="row">
+	<div class="column">
+		Luyao Zhang
+		<br>
+		<span class="affiliation">
+			Duke Kunshan University
+		</span>
+	</div>
+	<div class="column">
+		Anthony Zhang
+		<br>
+		<span class="affiliation">
+			University of Chicago
 		</span>
 	</div>
 	<div class="column">
@@ -627,3 +670,4 @@ layout: default
 		</span>
 	</div>
 </div>
+<br>
