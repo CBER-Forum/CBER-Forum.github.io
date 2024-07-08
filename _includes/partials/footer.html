@@ -10,12 +10,15 @@
   <!-- Append build time to avoid caching of live program embedded in JavaScript file -->
   <script src="{{ site.baseurl }}/assets/js/main.js?t={{ site.time | date: "%s" }}"></script>
 
-  <footer style="position: relative; margin-left:auto; margin-right:auto; margin-top:5em;">
-    <nav class="container navbar navbar-expand-{{ site.conference.navigation.breakpoint | default: 'md' }} navbar-light bg-light mb-0" style="position: absolute; bottom: 0; display: table; text-align: center; margin-left: auto; margin-right: auto;">
+  <footer style="position: relative; margin-left:auto; margin-right:auto; margin-top:5em; margin-bottom:0em;">
+    <nav class="navbar navbar-expand-md navbar-light bg-light mb-0">
+      <div class="container">
         <a href="mailto:contact@cber-forum.org"><i class="fas fa-envelope"></i></a>
         <a href="https://x.com/CBER_Forum"><i class="fab fa-twitter"></i></a>
         <a href="https://www.youtube.com/channel/UC4Mvv5LUJ7hPi7ZFewjVhJQ"><i class="fab fa-youtube"></i></a>
+      </div>
     </nav>
   </footer>
+  <!-- <nav class="container navbar navbar-expand-{{ site.conference.navigation.breakpoint | default: 'md' }} navbar-light bg-light mb-0" style="position: absolute; bottom: 0; display: table; text-align: center; margin-left: auto; margin-right: auto;"></nav> -->
 </body>
 </html>
