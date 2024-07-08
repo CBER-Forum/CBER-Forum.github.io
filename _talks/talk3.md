@@ -3,7 +3,7 @@ name: Arcu Non Odio
 speakers:
   - Alex Rosales
 categories:
-  - Cat A
+  - Moderation
   - Talk
 links:
   - name: Recodring

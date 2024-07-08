@@ -454,9 +454,9 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: Cat A
+      - name: Moderation
         color: info
-      - name: Cat B
+      - name: Keynote
         color: success
 
     # Hide icons on talk overview page

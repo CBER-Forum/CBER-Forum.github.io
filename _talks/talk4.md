@@ -3,7 +3,7 @@ name: Eu Nisl Nunc Mi Ipsum Faucibus
 speakers:
   - The Anonymous
 categories:
-  - Cat B
+  - Keynote
   - Talk
 ---
 

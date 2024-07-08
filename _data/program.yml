@@ -1,18 +1,18 @@
 days:
-- name: Monday
-  abbr: Mo
-  date: 2020-01-31
+- name: Thursday
+  abbr: Thu
+  date: 2024-05-23
   rooms:
-  - name: Room A
+  - name: KMC Room 2-60
     talks:
-      - name: Vim Impetus Placerat Cotidieque Ad
-        time_start: '12:00'
-        time_end: '12:45'
-      - name: Condimentum Vitae Sapien Pellentesque
-        time_start: '12:45'
-        time_end: '13:30'
+      - name: Registration and Breakfast
+        time_start: '08:15'
+        time_end: '08:45'
+      - name: Welcome and Opening Remarks
+        time_start: '08:45'
+        time_end: '09:00'
 
-  - name: Room B
+  - name: Gardner Commons
     talks:
       - name: Arcu Non Odio
         time_start: '12:00'

@@ -1,10 +1,7 @@
 ---
-name: Condimentum Vitae Sapien Pellentesque
+name: Welcome and Opening Remarks
 speakers:
-  - Tolga Philip
-  - Alex Rosales
+  - David Yermack, NYU Stern
 categories:
-  - Cat A
-  - Talk
-hide: true
+  - Moderation
 ---

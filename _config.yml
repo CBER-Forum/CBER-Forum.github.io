@@ -1,7 +1,6 @@
-title: Conference 2020
+title: 4th Annual CBER Conference
 preposition: at
-description: >-
-  Conference of a random organization on January 1st in Zurich, Switzerland
+description: NYU Stern School of Business, New York, NY, May 23, 2024
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
 
@@ -62,7 +61,7 @@ conference:
   # Navigation bar
   navigation:
     logo:
-      name: 4th Annual CBER Conference
+      name: CRYPTO AND BLOCKCHAIN ECONOMICS RESEARCH FORUM
       # img: ''
       url: 'https://cber-forum.github.io/'
     breakpoint: md
@@ -138,9 +137,9 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: Cat A
+      - name: Moderation
         color: info
-      - name: Cat B
+      - name: Keynote
         color: success
 
     # Hide icons on talk overview page

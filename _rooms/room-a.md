@@ -1,5 +1,6 @@
 ---
-name: Room A
+name: KMC Room 2-60
 ---
 
-A short way description on how to find the room
+All sessions except the Ethereum Foundation session will occur in KMC Room 2-60.
+Breakfast, Lunch and the Ethereum Foundation session will occur in the Gardner Commons.
