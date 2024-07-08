@@ -3,8 +3,8 @@ name: How do Crypto Scams Funnel Funds? The Economics of Pig Butchering and Slav
 speakers:
   - John M. Griffin
   - Kevin Mei
-  - 'Discussant: Katya Malinova'
 categories:
+  - Discussant: Katya Malinova
   - Talk
 links:
   - name: Paper

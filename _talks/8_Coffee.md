@@ -1,5 +1,5 @@
 ---
-name: Coffee Break 1
+name: Coffee Break 2
 categories:
   - Moderation
 ---
