@@ -29,7 +29,7 @@ layout: default
     <div class="column">Julien Prat<br><span style="font-size:0.85em;">Ecole Polytechnique</span></div>
     <div class="column">David Yermack (co-chair)<br><span style="font-size:0.85em;">NYU Stern</span></div>
 </div>
-
+<br>
 <div class="row">
     <div class="column">Fahad Saleh<br><span style="font-size:0.85em;">University of Florida</span></div>
     <div class="column">Andreas Park<br><span style="font-size:0.85em;">University of Toronto</span></div>
@@ -64,6 +64,7 @@ layout: default
 		</span>
 	</div>
 </div>
+<br>
 <div class="row">
 	<div class="column">
 		Deeksha Gupta
@@ -87,6 +88,7 @@ layout: default
 		</span>
 	</div>
 </div>
+<br>
 <div class="row">
 	<div class="column">
 		Jacob Leshno
@@ -110,6 +112,7 @@ layout: default
 		</span>
 	</div>
 </div>
+<br>
 <div class="row">
 	<div class="column">
 		Abdoulaye Ndiaye
@@ -133,6 +136,7 @@ layout: default
 		</span>
 	</div>
 </div>
+<br>
 <div class="row">
 	<div class="column">
 		Amin Shams
@@ -156,6 +160,7 @@ layout: default
 		</span>
 	</div>
 </div>
+<br>
 <div class="row">
 	<div class="column">
 		Joshua White
@@ -179,6 +184,7 @@ layout: default
 		</span>
 	</div>
 </div>
+<br>
 <div class="row">
 	<div class="column">
 		Jonathan Chiu
@@ -202,6 +208,7 @@ layout: default
 		</span>
 	</div>
 </div>
+<br>
 <div class="row">
 	<div class="column">
 		Mariana Khapko
@@ -225,6 +232,7 @@ layout: default
 		</span>
 	</div>
 </div>
+<br>
 <div class="row">
 	<div class="column">
 		Yukun Liu
@@ -248,6 +256,7 @@ layout: default
 		</span>
 	</div>
 </div>
+<br>
 <div class="row">
 	<div class="column">
 		Daniel Rabetti
@@ -271,6 +280,7 @@ layout: default
 		</span>
 	</div>
 </div>
+<br>
 <div class="row">
 	<div class="column">
 		Ke Tang
@@ -294,6 +304,7 @@ layout: default
 		</span>
 	</div>
 </div>
+<br>
 <div class="row">
 	<div class="column">
 		Luyao Zhang
@@ -317,6 +328,7 @@ layout: default
 		</span>
 	</div>
 </div>
+<br>
 <div class="row">
 	<div class="column">
 		Rowena Gan
@@ -340,6 +352,7 @@ layout: default
 		</span>
 	</div>
 </div>
+<br>
 <div class="row">
 	<div class="column">
 		Alfred Lehar
@@ -363,6 +376,7 @@ layout: default
 		</span>
 	</div>
 </div>
+<br>
 <div class="row">
 	<div class="column">
 		Barnabé Monnot
@@ -386,6 +400,7 @@ layout: default
 		</span>
 	</div>
 </div>
+<br>
 <div class="row">
 	<div class="column">
 		Gustavo Schwenkler
@@ -409,6 +424,8 @@ layout: default
 		</span>
 	</div>
 </div>
+<br>
+<div class="row">
 	<div class="column">
 		Jean-Philippe Vergne
 		<br>
@@ -430,3 +447,4 @@ layout: default
 			University of Toronto
 		</span>
 	</div>
+</div>
