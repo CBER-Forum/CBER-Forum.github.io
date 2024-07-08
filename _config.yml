@@ -61,7 +61,9 @@ conference:
   # Navigation bar
   navigation:
     logo:
-      name: "CRYPTO AND BLOCKCHAIN \n ECONOMICS RESEARCH FORUM"
+      name: |
+        CRYPTO AND BLOCKCHAIN
+        ECONOMICS RESEARCH FORUM
       # img: 'logo.png'  # inside /assets/images/
       url: 'https://cber-forum.github.io/'
     breakpoint: md
