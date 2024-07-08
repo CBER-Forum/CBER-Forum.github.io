@@ -22,24 +22,203 @@ layout: default
 }
 </style>
 
-## Organizers
+<h2>Organizers</h2>
 
 <div class="row">
-    <div class="column">Kose John (co-chair)<br><span style="font-size:0.85em;">NYU Stern</span></div>
-    <div class="column">Julien Prat<br><span style="font-size:0.85em;">Ecole Polytechnique</span></div>
-    <div class="column">David Yermack (co-chair)<br><span style="font-size:0.85em;">NYU Stern</span></div>
+    <div class="column">Kose John (co-chair)<br><span class="affiliation">NYU Stern</span></div>
+    <div class="column">Julien Prat<br><span class="affiliation">Ecole Polytechnique</span></div>
+    <div class="column">David Yermack (co-chair)<br><span class="affiliation">NYU Stern</span></div>
 </div>
 <br>
 <div class="row">
-    <div class="column">Fahad Saleh<br><span style="font-size:0.85em;">University of Florida</span></div>
-    <div class="column">Andreas Park<br><span style="font-size:0.85em;">University of Toronto</span></div>
-    <div class="column">Gerry Tsoukalas<br><span style="font-size:0.85em;">Boston University</span></div>
+    <div class="column">Fahad Saleh<br><span class="affiliation">University of Florida</span></div>
+    <div class="column">Andreas Park<br><span class="affiliation">University of Toronto</span></div>
+    <div class="column">Gerry Tsoukalas<br><span class="affiliation">Boston University</span></div>
 </div>
 
-## Advisory Committee
+<h2>Advisory Committee</h2>
+
+<div class="row">
+	<div class="column">
+		Volodymyr Babich
+		<br>
+		<span class="affiliation">
+			Georgetown University
+		</span>
+	</div>
+	<div class="column">
+		Bruno Biais
+		<br>
+		<span class="affiliation">
+			HEC Paris
+		</span>
+	</div>
+	<div class="column">
+		Agostino Capponi
+		<br>
+		<span class="affiliation">
+			Columbia University
+		</span>
+	</div>
+</div>
+<br>
+<div class="row">
+	<div class="column">
+		Joshua Gans
+		<br>
+		<span class="affiliation">
+			University of Toronto
+		</span>
+	</div>
+	<div class="column">
+		Rod Garratt,University of California
+		<br>
+		<span class="affiliation">
+			 Santa Barbara
+		</span>
+	</div>
+	<div class="column">
+		Yuliya Guseva
+		<br>
+		<span class="affiliation">
+			Rutgers University
+		</span>
+	</div>
+</div>
+<br>
+<div class="row">
+	<div class="column">
+		Hanna Halaburda
+		<br>
+		<span class="affiliation">
+			NYU Stern
+		</span>
+	</div>
+	<div class="column">
+		Campbell Harvey
+		<br>
+		<span class="affiliation">
+			Duke University
+		</span>
+	</div>
+	<div class="column">
+		Joel Hasbrouck
+		<br>
+		<span class="affiliation">
+			NYU Stern
+		</span>
+	</div>
+</div>
+<br>
+<div class="row">
+	<div class="column">
+		Zhiguo He
+		<br>
+		<span class="affiliation">
+			Stanford University
+		</span>
+	</div>
+	<div class="column">
+		Gur Huberman
+		<br>
+		<span class="affiliation">
+			Columbia University
+		</span>
+	</div>
+	<div class="column">
+		Garud Iyengar
+		<br>
+		<span class="affiliation">
+			Columbia University
+		</span>
+	</div>
+</div>
+<br>
+<div class="row">
+	<div class="column">
+		Leonid Kogan
+		<br>
+		<span class="affiliation">
+			Massachusetts Institute of Technology
+		</span>
+	</div>
+	<div class="column">
+		Scott Kominers
+		<br>
+		<span class="affiliation">
+			Harvard University
+		</span>
+	</div>
+	<div class="column">
+		Gordon Liao
+		<br>
+		<span class="affiliation">
+			Circle
+		</span>
+	</div>
+</div>
+<br>
+<div class="row">
+	<div class="column">
+		Evgeny Lyandres
+		<br>
+		<span class="affiliation">
+			Tel Aviv University
+		</span>
+	</div>
+	<div class="column">
+		Igor Makarov
+		<br>
+		<span class="affiliation">
+			London School of Economics
+		</span>
+	</div>
+	<div class="column">
+		Ciamac Moallemi
+		<br>
+		<span class="affiliation">
+			Columbia University
+		</span>
+	</div>
+</div>
+<br>
+<div class="row">
+	<div class="column">
+		Christine Parlour,University of California
+		<br>
+		<span class="affiliation">
+			 Berkeley
+		</span>
+	</div>
+	<div class="column">
+		Lee Schneider
+		<br>
+		<span class="affiliation">
+			Ava Labs
+		</span>
+	</div>
+	<div class="column">
+		Lin William Cong
+		<br>
+		<span class="affiliation">
+			Cornell University
+		</span>
+	</div>
+</div>
+<br>
+<div class="row">
+	<div class="column">
+		Wei Xiong
+		<br>
+		<span class="affiliation">
+			Princeton University
+		</span>
+	</div>
+</div>
+<br>
 
 
-## Program Committee
+<h2>Program Committee</h2>
 
 <div class="row">
 	<div class="column">
