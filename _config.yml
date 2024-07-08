@@ -62,7 +62,7 @@ conference:
   navigation:
     logo:
       name: CRYPTO AND BLOCKCHAIN ECONOMICS RESEARCH FORUM
-      # img: ''
+      img: 'logo.png'  # inside /assets/images/
       url: 'https://cber-forum.github.io/'
     breakpoint: md
     links:
@@ -93,8 +93,8 @@ conference:
 
   # Main landing page
   main:
-    logo:
-      img: 'logo.png'  # inside /assets/images/
+    # logo:
+    #   img: 'logo.png'  # inside /assets/images/
     links:
       - name: Program
         relative_url: /program/
