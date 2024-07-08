@@ -1,17 +1,17 @@
 
   </main>
-  <nav class="navbar navbar-expand-{{ site.conference.navigation.breakpoint | default: 'md' }} navbar-light bg-light mb-3">
-
-    <footer class="container">
+  
+  {%- include partials/modal_link.html -%}
+  
+  {%- if site.conference.live.streaming.enable -%}
+  {%- include partials/modal_live.html -%}
+  {%- endif -%}
+  
+  <nav class="navbar navbar-expand-{{ site.conference.navigation.breakpoint | default: 'md' }} navbar-light bg-light mb-3" style="position: relative;">
+    <footer class="container" style="position: absolute;">
       Test.
     </footer>
   </nav>
-
-  {%- include partials/modal_link.html -%}
-
-  {%- if site.conference.live.streaming.enable -%}
-    {%- include partials/modal_live.html -%}
-  {%- endif -%}
 
   <!-- Append build time to avoid caching of live program embedded in JavaScript file -->
   <script src="{{ site.baseurl }}/assets/js/main.js?t={{ site.time | date: "%s" }}"></script>
