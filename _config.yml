@@ -104,8 +104,8 @@ conference:
     links:
       - name: Program
         relative_url: /program/
-      - name: How to get there
-        relative_url: /location/
+      # - name: How to get there
+      #   relative_url: /location/
       - name: Tickets
         # disabled: true
         absolute_url: 'https://www.eventbrite.com/e/4th-annual-cber-conference-tickets-851540710187'
