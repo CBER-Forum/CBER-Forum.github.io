@@ -80,10 +80,12 @@ conference:
         menu:
           - name: 2024 (current)
             disabled: true
-          - name: 2019
-            relative_url: /2019/
-          - name: 2018
-            relative_url: /2018/
+          - name: 2023
+            absolute_url: 'https://www.cber-forum.org/conference2023'
+          - name: 2022
+            absolute_url: 'https://www.cber-forum.org/conference2022'
+          - name: 2021
+            absolute_url: 'https://www.cber-forum.org/conference2021'
 
   # Link Preview for Sharing
   link_preview:
@@ -103,8 +105,8 @@ conference:
       - name: How to get there
         relative_url: /location/
       - name: Tickets
-        disabled: true
-        absolute_url: ''
+        # disabled: true
+        absolute_url: 'https://www.eventbrite.com/e/4th-annual-cber-conference-tickets-851540710187'
 
   # Information boxes
   # info_bars:
@@ -162,7 +164,7 @@ conference:
     # display it.
     map:
       # Initial map center point
-      home_coord: 40.729152, -73.996253
+      home_coord: 40.72915, -73.99625
       # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
       # The following do match the Bootstrap design not too badly:
       #   - Thunderforest.Neighbourhood
