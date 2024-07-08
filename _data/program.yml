@@ -6,7 +6,7 @@ days:
   - name: KMC Room 2-60
     talks:
       - name: Registration and Breakfast
-        time_start: '08:15'
+        time_start: '08:00'
         time_end: '08:45'
       - name: Welcome and Opening Remarks
         time_start: '08:45'
