@@ -20,6 +20,15 @@ days:
       - name: Keynote Address, Sponsored by Boston University
         time_start: '11:30'
         time_end: '12:30'
+      - name: 'Ethereum Consensus: Proof-of-Stake, Staking Incentives and Gasper'
+        time_start: '12:35'
+        time_end: '13:15'
+      - name: 'Beyond the Protocol: Proposer-Builder-Separation and Relays'
+        time_start: '13:15'
+        time_end: '13:55'
+      - name: 'LSTs and LRTs: Is Restaking the new Staking?'
+        time_start: '13:55'
+        time_end: '14:35'
       - name: Coffee Break 2
         time_start: '15:45'
         time_end: '16:00'
