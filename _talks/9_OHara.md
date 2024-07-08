@@ -6,8 +6,8 @@ categories:
   - 'Moderator: Lin William Cong'
   - Keynote
 links:
-  - name: Recodring
+  - name: Video
     icon: video
-    absolute_url: https://media.ccc.de/
+    absolute_url: https://youtu.be/6ZQHHpe0E8Y
 ---
 

@@ -10,8 +10,5 @@ links:
   - name: Paper
     icon: scroll
     absolute_url: https://dx.doi.org/10.2139/ssrn.4742235
-  - name: Recodring
-    icon: video
-    absolute_url: https://media.ccc.de/
 ---
 

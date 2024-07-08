@@ -6,8 +6,8 @@ categories:
   - 'Moderator: Evgeny Lyandres'
   - Lunch
 links:
-  - name: Recodring
+  - name: Video
     icon: video
-    absolute_url: https://media.ccc.de/
+    absolute_url: https://youtu.be/XS72blk5FoE
 ---
 
