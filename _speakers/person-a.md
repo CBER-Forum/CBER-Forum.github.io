@@ -1,12 +1,10 @@
 ---
-name: Tolga Philip
-first_name: Tolga
-last_name: Philip
+name: David Yermack
+first_name: David
+last_name: Yermack
 links:
   - name: Profile
-    absolute_url: https://github.com
+    absolute_url: http://www.stern.nyu.edu/~dyermack
 ---
 
-Lorem ipsum dolor sit amet, mel tritani quaestio ne. Sed cu quot erat. Stet mutat moderatius ad vel. Ne eum quod expetendis, odio eros nominavi sed et, eu suscipit atomorum sit. Facete maluisset urbanitas in eos, idque expetendis et vis, et quo everti quaestio maiestatis.
-
-At elit omnium vel, utamur ponderum definitionem cu duo. Ex eam quot meliore. Modus admodum antiopam duo in, et esse incorrupte percipitur nec, ei facete utroque torquatos his. Ea vel moderatius cotidieque conclusionemque, noluisse menandri consetetur id pri.
+David L. Yermack is the Albert Fingerhut Professor of Finance and Business Transformation at New York University Stern School of Business. He serves as Director of the NYU Pollack Center for Law and Business. Professor Yermack teaches joint MBA - Law School courses in Restructuring Firms & Industries and Bitcoin & Cryptocurrencies, as well as PhD research courses in corporate governance, executive compensation, and distress and restructuring.
