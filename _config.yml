@@ -148,7 +148,7 @@ conference:
       - name: Keynote
         color: success
       - name: Lunch
-        color: alert
+        color: danger
 
     # Hide icons on talk overview page
     hide_icons: false
