@@ -3,7 +3,7 @@ name: David Yermack
 first_name: David
 last_name: Yermack
 links:
-  - name: Profile
+  - name: Personal site
     absolute_url: http://www.stern.nyu.edu/~dyermack
 ---
 

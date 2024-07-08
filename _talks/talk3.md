@@ -1,9 +1,10 @@
 ---
-name: Arcu Non Odio
+name: How do Crypto Scams Funnel Funds? The Economics of Pig Butchering and Slavery
 speakers:
-  - Alex Rosales
+  - John M. Griffin
+  - Kevin Mei
+  - "Discussant: Katya Malinova"
 categories:
-  - Moderation
   - Talk
 links:
   - name: Recodring

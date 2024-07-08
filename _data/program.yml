@@ -5,21 +5,13 @@ days:
   rooms:
   - name: KMC Room 2-60
     talks:
-      - name: Registration and Breakfast
-        time_start: '08:00'
-        time_end: '08:45'
       - name: Welcome and Opening Remarks
         time_start: '08:45'
         time_end: '09:00'
 
   - name: Gardner Commons
     talks:
-      - name: Arcu Non Odio
-        time_start: '12:00'
-        time_end: '13:00'
+      - name: Registration and Breakfast
+        time_start: '08:00'
+        time_end: '08:45'
 
-  - name: Room C
-    talks:
-      - name: Eu Nisl Nunc Mi Ipsum Faucibus
-        time_start: '13:30'
-        time_end: '14:30'
